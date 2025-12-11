@@ -1,0 +1,7 @@
+{
+  "name": "VeriFlow - OTP-Free Onboarding",
+  "description": "Streamlined employee onboarding with document-based verification and simulated EPFO/UIDAI integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
